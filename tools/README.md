@@ -1,0 +1,4 @@
+# ORDINE DI ESECUZIONE DEGLI ESERCIZI FATTI A LEZIONE
+
+1. product-service-no-db
+2. beans
