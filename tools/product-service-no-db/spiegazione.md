@@ -9,6 +9,7 @@ Questo esercizio ci propone la realizzazione di un primo progetto SPRING seguend
 Il file APP.java definisce la classe starter del progetto ed è annotata con @SpringBootApplication 
 
 Nel package resources troviamo *application.yml*: è un file di configurazione utilizzato dalle applicazioni Spring Boot per definire parametri di configurazione dell'applicazione in un formato leggibile (YAML).
+
 ```
 server:
 port: 7001
